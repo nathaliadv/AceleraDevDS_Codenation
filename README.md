@@ -14,4 +14,4 @@
     Semana 7: Engenharia de Features - Desafio 6
     Semana 8: Regressão - Desafio 7
     Semana 9: Classificação - Desafio 8
-    Semana 10: Entrega do Desafio Final
+    Semana 10: Desafio Final
